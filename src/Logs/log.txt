@@ -1,0 +1,856 @@
+Apr 30, 2017 6:29:39 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 6:29:40 PM NWC.model.Administrator doLog
+INFO: scene change to 5
+Apr 30, 2017 6:29:41 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 6:29:41 PM NWC.model.Administrator doLog
+INFO: origin is frozen
+Apr 30, 2017 6:29:43 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 6:29:43 PM NWC.model.Administrator doLog
+INFO: origin is frozen
+Apr 30, 2017 6:58:41 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 6:59:24 PM NWC.model.Administrator doLog
+INFO: scene change to 10
+Apr 30, 2017 7:00:24 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 7:00:24 PM NWC.model.Administrator doLog
+INFO: origin is frozen
+Apr 30, 2017 7:01:14 PM NWC.model.Administrator doLog
+INFO: scene change to 10
+Apr 30, 2017 7:03:49 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 7:03:49 PM NWC.model.Administrator doLog
+INFO: origin is frozen
+Apr 30, 2017 7:31:42 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 7:31:42 PM NWC.model.Administrator doLog
+INFO: origin is frozen
+Apr 30, 2017 7:37:04 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 7:37:04 PM NWC.model.Administrator doLog
+INFO: origin is frozen
+Apr 30, 2017 7:37:28 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 7:37:28 PM NWC.model.Administrator doLog
+INFO: origin is frozen
+Apr 30, 2017 7:38:13 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 7:38:19 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 7:38:19 PM NWC.model.Administrator doLog
+INFO: origin is frozen
+Apr 30, 2017 7:38:43 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 7:38:45 PM NWC.model.Administrator doLog
+INFO: scene change to 5
+Apr 30, 2017 7:38:49 PM NWC.controller.AddEmployeeController doLog
+INFO: Succesful Staff Name: me
+Apr 30, 2017 7:38:51 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 7:38:51 PM NWC.model.Administrator doLog
+INFO: origin is frozen
+Apr 30, 2017 7:38:57 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 7:38:57 PM NWC.model.Administrator doLog
+INFO: origin is frozen
+Apr 30, 2017 7:39:13 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 7:39:13 PM NWC.model.Administrator doLog
+INFO: origin is frozen
+Apr 30, 2017 7:39:25 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 7:39:25 PM NWC.model.Administrator doLog
+INFO: origin is frozen
+Apr 30, 2017 7:43:55 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 7:44:01 PM NWC.model.Administrator doLog
+INFO: scene change to 5
+Apr 30, 2017 7:44:05 PM NWC.controller.AddEmployeeController doLog
+INFO: Succesful Staff Name: avi
+Apr 30, 2017 7:44:07 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 7:44:07 PM NWC.model.Administrator doLog
+INFO: origin is frozen
+Apr 30, 2017 7:44:09 PM NWC.controller.EmployeeViewController doLog
+INFO: No times to display, not rostered on yet
+Apr 30, 2017 7:50:06 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 7:50:07 PM NWC.model.Administrator doLog
+INFO: scene change to 5
+Apr 30, 2017 7:50:12 PM NWC.controller.AddEmployeeController doLog
+INFO: Succesful Staff Name: hello
+Apr 30, 2017 7:50:14 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 7:50:14 PM NWC.model.Administrator doLog
+INFO: origin is frozen
+Apr 30, 2017 7:51:21 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 7:51:25 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 7:51:25 PM NWC.model.Administrator doLog
+INFO: origin is frozen
+Apr 30, 2017 7:52:04 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 7:52:08 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 7:52:08 PM NWC.model.Administrator doLog
+INFO: origin is frozen
+Apr 30, 2017 7:53:13 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 7:54:24 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 7:54:26 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 7:54:26 PM NWC.model.Administrator doLog
+INFO: origin is frozen
+Apr 30, 2017 7:55:13 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 7:56:05 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 7:56:08 PM NWC.controller.EmployeeViewController doLog
+INFO: No times to display, not rostered on yet
+Apr 30, 2017 7:56:41 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 7:56:43 PM NWC.controller.EmployeeViewController doLog
+INFO: No times to display, not rostered on yet
+Apr 30, 2017 7:56:46 PM NWC.controller.EmployeeViewController doLog
+INFO: No times to display, not rostered on yet
+Apr 30, 2017 7:56:49 PM NWC.controller.EmployeeViewController doLog
+INFO: No times to display, not rostered on yet
+Apr 30, 2017 7:56:53 PM NWC.controller.EmployeeViewController doLog
+INFO: No times to display, not rostered on yet
+Apr 30, 2017 7:56:55 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 7:56:55 PM NWC.model.Administrator doLog
+INFO: origin is frozen
+Apr 30, 2017 7:58:35 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 8:04:45 PM NWC.model.Administrator doLog
+INFO: scene change to 11
+Apr 30, 2017 8:45:57 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 8:45:58 PM NWC.model.Administrator doLog
+INFO: scene change to 11
+Apr 30, 2017 8:47:00 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 8:47:01 PM NWC.model.Administrator doLog
+INFO: scene change to 11
+Apr 30, 2017 8:47:03 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 8:47:03 PM NWC.model.Administrator doLog
+INFO: origin is frozen
+Apr 30, 2017 8:47:30 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 8:47:31 PM NWC.model.Administrator doLog
+INFO: scene change to 11
+Apr 30, 2017 8:48:38 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 8:48:39 PM NWC.model.Administrator doLog
+INFO: scene change to 11
+Apr 30, 2017 9:08:15 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 9:08:16 PM NWC.model.Administrator doLog
+INFO: scene change to 11
+Apr 30, 2017 9:09:20 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 9:09:21 PM NWC.model.Administrator doLog
+INFO: scene change to 11
+Apr 30, 2017 9:09:24 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 9:09:24 PM NWC.model.Administrator doLog
+INFO: origin is frozen
+Apr 30, 2017 9:10:57 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 9:10:58 PM NWC.model.Administrator doLog
+INFO: scene change to 11
+Apr 30, 2017 9:11:48 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 9:11:49 PM NWC.model.Administrator doLog
+INFO: scene change to 11
+Apr 30, 2017 9:12:27 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 9:12:28 PM NWC.model.Administrator doLog
+INFO: scene change to 11
+Apr 30, 2017 9:14:59 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 9:15:00 PM NWC.model.Administrator doLog
+INFO: scene change to 11
+Apr 30, 2017 9:16:17 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 9:16:18 PM NWC.model.Administrator doLog
+INFO: scene change to 11
+Apr 30, 2017 9:16:58 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 9:17:00 PM NWC.model.Administrator doLog
+INFO: scene change to 11
+Apr 30, 2017 9:18:31 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 9:18:32 PM NWC.model.Administrator doLog
+INFO: scene change to 11
+Apr 30, 2017 9:19:02 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 9:19:03 PM NWC.model.Administrator doLog
+INFO: scene change to 11
+Apr 30, 2017 9:19:38 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 9:19:39 PM NWC.model.Administrator doLog
+INFO: scene change to 11
+Apr 30, 2017 9:20:40 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 9:20:41 PM NWC.model.Administrator doLog
+INFO: scene change to 11
+Apr 30, 2017 9:21:44 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 9:21:44 PM NWC.model.Administrator doLog
+INFO: scene change to 11
+Apr 30, 2017 9:22:25 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 9:22:25 PM NWC.model.Administrator doLog
+INFO: origin is frozen
+Apr 30, 2017 9:22:26 PM NWC.model.Administrator doLog
+INFO: scene change to 11
+Apr 30, 2017 9:22:58 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 9:22:58 PM NWC.model.Administrator doLog
+INFO: scene change to 11
+Apr 30, 2017 9:23:27 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 9:23:28 PM NWC.model.Administrator doLog
+INFO: scene change to 11
+Apr 30, 2017 9:24:39 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 9:24:39 PM NWC.model.Administrator doLog
+INFO: scene change to 11
+Apr 30, 2017 9:24:53 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 9:24:53 PM NWC.model.Administrator doLog
+INFO: origin is frozen
+Apr 30, 2017 9:31:10 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 9:31:23 PM NWC.controller.AddEmployeeTimesIVController doLog
+INFO: Next Page found and is not null
+Apr 30, 2017 9:31:43 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 9:31:43 PM NWC.model.Administrator doLog
+INFO: origin is frozen
+Apr 30, 2017 9:31:45 PM NWC.model.Administrator doLog
+INFO: scene change to 10
+Apr 30, 2017 9:31:46 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 9:31:46 PM NWC.model.Administrator doLog
+INFO: origin is frozen
+Apr 30, 2017 9:31:47 PM NWC.model.Administrator doLog
+INFO: scene change to 11
+Apr 30, 2017 9:32:58 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 9:32:58 PM NWC.model.Administrator doLog
+INFO: origin is frozen
+Apr 30, 2017 9:33:00 PM NWC.model.Administrator doLog
+INFO: scene change to 9
+Apr 30, 2017 9:33:03 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 9:33:03 PM NWC.model.Administrator doLog
+INFO: origin is frozen
+Apr 30, 2017 9:33:04 PM NWC.model.Administrator doLog
+INFO: scene change to 5
+Apr 30, 2017 9:33:07 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 9:33:07 PM NWC.model.Administrator doLog
+INFO: origin is frozen
+Apr 30, 2017 9:33:08 PM NWC.model.Administrator doLog
+INFO: scene change to 11
+Apr 30, 2017 9:33:15 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 9:33:15 PM NWC.model.Administrator doLog
+INFO: origin is frozen
+Apr 30, 2017 9:33:16 PM NWC.model.Administrator doLog
+INFO: scene change to 5
+Apr 30, 2017 9:33:24 PM NWC.controller.AddEmployeeController doLog
+INFO: No Specialty Entered
+Apr 30, 2017 9:33:31 PM NWC.model.Owner doLog
+INFO: Does Not Match Regex
+Apr 30, 2017 9:33:31 PM NWC.controller.AddEmployeeController doLog
+INFO: Invalid Staff Name
+Apr 30, 2017 9:33:36 PM NWC.model.Owner doLog
+INFO: Does Not Match Regex
+Apr 30, 2017 9:33:36 PM NWC.controller.AddEmployeeController doLog
+INFO: Invalid Staff Name
+Apr 30, 2017 9:33:41 PM NWC.controller.AddEmployeeController doLog
+INFO: Succesful Staff Name: Fairy
+Apr 30, 2017 9:33:43 PM NWC.model.Owner doLog
+INFO: Spaces in the string
+Apr 30, 2017 9:33:43 PM NWC.controller.AddEmployeeController doLog
+INFO: Invalid Staff Name
+Apr 30, 2017 9:33:45 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 9:33:45 PM NWC.model.Administrator doLog
+INFO: origin is frozen
+Apr 30, 2017 9:33:46 PM NWC.model.Administrator doLog
+INFO: scene change to 11
+Apr 30, 2017 9:33:53 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 9:33:53 PM NWC.model.Administrator doLog
+INFO: origin is frozen
+Apr 30, 2017 11:02:55 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 11:02:56 PM NWC.model.Administrator doLog
+INFO: scene change to 11
+Apr 30, 2017 11:03:02 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 11:03:02 PM NWC.model.Administrator doLog
+INFO: origin is frozen
+Apr 30, 2017 11:03:03 PM NWC.model.Administrator doLog
+INFO: scene change to 5
+Apr 30, 2017 11:03:07 PM NWC.model.Owner doLog
+INFO: Does Not Match Regex
+Apr 30, 2017 11:03:07 PM NWC.controller.AddEmployeeController doLog
+INFO: Invalid Staff Name
+Apr 30, 2017 11:03:09 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+Apr 30, 2017 11:03:09 PM NWC.model.Administrator doLog
+INFO: origin is frozen
+May 01, 2017 12:18:02 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 12:18:03 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 12:18:03 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 12:18:06 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 12:18:06 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 12:18:09 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 12:18:09 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 12:18:13 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 12:18:13 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 12:18:14 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 12:18:14 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 12:18:14 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 12:18:14 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 12:18:14 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 12:18:19 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 12:18:20 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 12:19:58 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 12:19:59 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 12:19:59 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 12:20:01 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 12:20:01 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 12:20:01 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 12:23:57 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 12:23:58 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 12:23:58 AM NWC.model.Administrator doLog
+INFO: origin is frozen
+May 01, 2017 12:24:01 AM NWC.model.Administrator doLog
+INFO: scene change to 12
+May 01, 2017 12:24:01 AM NWC.model.Administrator doLog
+INFO: scene change to 12
+May 01, 2017 12:24:02 AM NWC.model.Administrator doLog
+INFO: scene change to 12
+May 01, 2017 12:24:31 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 12:24:32 AM NWC.model.Administrator doLog
+INFO: scene change to 12
+May 01, 2017 12:35:16 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 12:35:17 AM NWC.model.Administrator doLog
+INFO: scene change to 12
+May 01, 2017 12:35:21 AM NWC.model.Administrator doLog
+INFO: scene change to 13
+May 01, 2017 12:35:22 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 12:35:22 AM NWC.model.Administrator doLog
+INFO: origin is frozen
+May 01, 2017 12:35:23 AM NWC.model.Administrator doLog
+INFO: scene change to 1
+May 01, 2017 12:35:25 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 12:35:26 AM NWC.model.Administrator doLog
+INFO: scene change to 1
+May 01, 2017 12:35:30 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 12:35:31 AM NWC.model.Administrator doLog
+INFO: scene change to 12
+May 01, 2017 12:35:34 AM NWC.model.Administrator doLog
+INFO: scene change to 13
+May 01, 2017 12:35:35 AM NWC.model.Administrator doLog
+INFO: scene change to 12
+May 01, 2017 12:35:36 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 12:35:36 AM NWC.model.Administrator doLog
+INFO: origin is frozen
+May 01, 2017 12:35:38 AM NWC.model.Administrator doLog
+INFO: scene change to 5
+May 01, 2017 12:35:45 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 12:35:45 AM NWC.model.Administrator doLog
+INFO: origin is frozen
+May 01, 2017 12:35:46 AM NWC.model.Administrator doLog
+INFO: scene change to 9
+May 01, 2017 12:35:48 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 12:35:48 AM NWC.model.Administrator doLog
+INFO: origin is frozen
+May 01, 2017 12:35:49 AM NWC.model.Administrator doLog
+INFO: scene change to 11
+May 01, 2017 12:35:52 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 12:35:52 AM NWC.model.Administrator doLog
+INFO: origin is frozen
+May 01, 2017 12:35:57 AM NWC.controller.AddEmployeeTimesIVController doLog
+INFO: Next Page found and is not null
+May 01, 2017 12:35:58 AM NWC.controller.AddEmployeeTimesIVController doLog
+INFO: Next Page found and is not null
+May 01, 2017 12:35:58 AM NWC.controller.AddEmployeeTimesIVController doLog
+INFO: Next Page found and is not null
+May 01, 2017 12:36:10 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 12:36:10 AM NWC.model.Administrator doLog
+INFO: origin is frozen
+May 01, 2017 12:36:11 AM NWC.model.Administrator doLog
+INFO: scene change to 5
+May 01, 2017 12:36:12 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 12:36:12 AM NWC.model.Administrator doLog
+INFO: origin is frozen
+May 01, 2017 12:36:13 AM NWC.model.Administrator doLog
+INFO: scene change to 12
+May 01, 2017 12:45:31 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 12:45:33 AM NWC.model.Administrator doLog
+INFO: scene change to 10
+May 01, 2017 12:49:05 AM NWC.model.Administrator doLog
+INFO: scene change to 12
+May 01, 2017 12:49:10 AM NWC.model.Administrator doLog
+INFO: scene change to 13
+May 01, 2017 12:49:13 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 12:49:13 AM NWC.model.Administrator doLog
+INFO: origin is frozen
+May 01, 2017 12:49:22 AM NWC.model.Administrator doLog
+INFO: scene change to 9
+May 01, 2017 12:52:18 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 12:52:18 AM NWC.model.Administrator doLog
+INFO: origin is frozen
+May 01, 2017 12:52:24 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 12:52:25 AM NWC.model.Administrator doLog
+INFO: scene change to 9
+May 01, 2017 12:55:42 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 12:55:44 AM NWC.model.Administrator doLog
+INFO: scene change to 9
+May 01, 2017 12:55:51 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 12:55:51 AM NWC.model.Administrator doLog
+INFO: origin is frozen
+May 01, 2017 12:56:28 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 12:56:28 AM NWC.model.Administrator doLog
+INFO: scene change to 9
+May 01, 2017 12:56:29 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 12:56:29 AM NWC.model.Administrator doLog
+INFO: origin is frozen
+May 01, 2017 12:56:33 AM NWC.model.Administrator doLog
+INFO: scene change to 12
+May 01, 2017 12:56:35 AM NWC.model.Administrator doLog
+INFO: scene change to 13
+May 01, 2017 12:56:37 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 12:56:37 AM NWC.model.Administrator doLog
+INFO: origin is frozen
+May 01, 2017 12:59:15 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 12:59:16 AM NWC.model.Administrator doLog
+INFO: scene change to 12
+May 01, 2017 12:59:29 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 12:59:30 AM NWC.model.Administrator doLog
+INFO: scene change to 12
+May 01, 2017 12:59:32 AM NWC.model.Administrator doLog
+INFO: scene change to 13
+May 01, 2017 12:59:33 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 12:59:33 AM NWC.model.Administrator doLog
+INFO: origin is frozen
+May 01, 2017 1:03:06 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 1:03:10 AM NWC.model.Administrator doLog
+INFO: scene change to 10
+May 01, 2017 1:03:30 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 1:03:32 AM NWC.model.Administrator doLog
+INFO: scene change to 9
+May 01, 2017 1:03:39 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 1:03:39 AM NWC.model.Administrator doLog
+INFO: origin is frozen
+May 01, 2017 1:03:42 AM NWC.model.Administrator doLog
+INFO: scene change to 10
+May 01, 2017 1:03:56 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 1:03:59 AM NWC.model.Administrator doLog
+INFO: scene change to 9
+May 01, 2017 1:04:00 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 1:04:00 AM NWC.model.Administrator doLog
+INFO: origin is frozen
+May 01, 2017 1:04:02 AM NWC.model.Administrator doLog
+INFO: scene change to 10
+May 01, 2017 1:04:49 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 1:04:49 AM NWC.model.Administrator doLog
+INFO: origin is frozen
+May 01, 2017 1:04:50 AM NWC.model.Administrator doLog
+INFO: scene change to 5
+May 01, 2017 1:04:52 AM NWC.controller.AddEmployeeController doLog
+INFO: No Specialty Entered
+May 01, 2017 1:04:55 AM NWC.model.Owner doLog
+INFO: No inputted data
+May 01, 2017 1:04:57 AM NWC.model.Owner doLog
+INFO: Does Not Match Regex
+May 01, 2017 1:05:01 AM NWC.model.Owner doLog
+INFO: Does Not Match Regex
+May 01, 2017 1:05:02 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 01, 2017 1:05:02 AM NWC.model.Administrator doLog
+INFO: origin is frozen
+May 01, 2017 1:05:04 AM NWC.model.Administrator doLog
+INFO: scene change to 1
+May 04, 2017 1:30:25 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 1:31:00 PM NWC.model.Administrator doLog
+INFO: scene change to 12
+May 04, 2017 1:40:01 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 1:40:13 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 1:40:13 PM NWC.model.Administrator doLog
+INFO: origin is frozen
+May 04, 2017 1:40:16 PM NWC.model.Administrator doLog
+INFO: scene change to 5
+May 04, 2017 1:40:22 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 1:40:22 PM NWC.model.Administrator doLog
+INFO: origin is frozen
+May 04, 2017 1:40:31 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 1:40:31 PM NWC.model.Administrator doLog
+INFO: origin is frozen
+May 04, 2017 1:41:04 PM NWC.model.Administrator doLog
+INFO: scene change to 1
+May 04, 2017 1:45:41 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 1:50:07 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 1:59:35 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 2:00:22 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 2:00:49 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 2:06:22 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 2:06:55 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 2:07:43 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 2:08:12 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 2:08:51 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 2:47:35 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 2:48:44 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 2:49:45 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 2:53:16 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 2:54:20 PM NWC.controller.AddEmployeeTimesIVController doLog
+INFO: Next Page found and is not null
+May 04, 2017 2:54:56 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 2:55:09 PM NWC.controller.AddEmployeeTimesIVController doLog
+INFO: Next Page found and is not null
+May 04, 2017 2:55:46 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 2:55:48 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 2:55:48 PM NWC.model.Administrator doLog
+INFO: origin is frozen
+May 04, 2017 2:55:51 PM NWC.controller.AddEmployeeTimesIVController doLog
+INFO: Next Page found and is not null
+May 04, 2017 2:58:10 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 3:01:00 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 3:01:35 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 3:04:19 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 3:04:39 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 3:08:02 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 3:08:51 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 3:10:18 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 3:10:26 PM NWC.controller.AddEmployeeTimesIVController doLog
+INFO: Next Page found and is not null
+May 04, 2017 3:11:19 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 3:12:20 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 3:15:42 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 3:16:17 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 3:16:41 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 3:21:04 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 3:34:04 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 3:36:56 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 3:42:12 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 3:42:25 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 3:42:25 PM NWC.model.Administrator doLog
+INFO: origin is frozen
+May 04, 2017 3:42:27 PM NWC.model.Administrator doLog
+INFO: scene change to 5
+May 04, 2017 3:42:32 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 3:42:32 PM NWC.model.Administrator doLog
+INFO: origin is frozen
+May 04, 2017 3:43:48 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 3:44:25 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 3:46:08 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 3:46:52 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 3:52:05 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 3:53:12 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 3:58:15 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 4:01:16 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 4:01:47 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 4:02:23 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 4:03:00 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 4:23:46 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 4:25:09 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 4:26:10 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 4:26:28 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 4:27:14 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 4:34:11 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 4:34:32 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 4:34:32 PM NWC.model.Administrator doLog
+INFO: origin is frozen
+May 04, 2017 4:38:04 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 4:39:14 PM NWC.controller.AddEmployeeTimesIVController doLog
+INFO: Next Page found and is not null
+May 04, 2017 4:39:27 PM NWC.controller.AddEmployeeTimesIVController doLog
+INFO: Next Page found and is not null
+May 04, 2017 4:46:45 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 4:47:31 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 4:47:38 PM NWC.controller.AddEmployeeTimesIVController doLog
+INFO: Next Page found and is not null
+May 04, 2017 4:48:00 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 4:50:39 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 4:52:35 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 4:54:43 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 4:56:26 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 4:57:05 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 5:00:04 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 5:01:04 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 5:01:38 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 04, 2017 5:06:11 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 11:59:14 AM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 12:01:41 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 12:02:19 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 12:02:47 PM NWC.controller.AddEmployeeTimesIVController doLog
+INFO: Next Page found and is not null
+May 05, 2017 12:04:01 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 12:04:04 PM NWC.controller.AddEmployeeTimesIVController doLog
+INFO: Next Page found and is not null
+May 05, 2017 12:05:46 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 12:10:58 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 12:12:17 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 12:23:13 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 12:24:35 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 12:26:27 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 12:27:51 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 12:28:30 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 12:28:36 PM NWC.controller.AddEmployeeTimesIVController doLog
+INFO: Next Page found and is not null
+May 05, 2017 12:29:28 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 12:29:48 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 12:31:50 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 12:35:20 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 12:36:08 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 12:36:10 PM NWC.model.Administrator doLog
+INFO: scene change to 10
+May 05, 2017 12:36:11 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 12:36:11 PM NWC.model.Administrator doLog
+INFO: origin is frozen
+May 05, 2017 12:36:42 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 12:37:09 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 12:39:22 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 12:40:39 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 12:41:06 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 12:42:41 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 12:43:40 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 12:44:08 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 12:44:45 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 12:45:35 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 12:46:26 PM NWC.controller.AddEmployeeTimesIVController doLog
+INFO: Next Page found and is not null
+May 05, 2017 12:50:44 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 12:51:35 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 12:51:52 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 12:52:20 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 1:00:16 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 1:03:30 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 1:08:57 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 1:10:37 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 1:11:03 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 1:11:37 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 1:11:49 PM NWC.controller.AddEmployeeTimesIVController doLog
+INFO: Next Page found and is not null
+May 05, 2017 1:11:54 PM NWC.controller.AddEmployeeTimesIVController doLog
+INFO: Next Page found and is not null
+May 05, 2017 1:15:07 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 1:15:46 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 2:06:44 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 2:07:19 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 2:09:40 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 2:10:29 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 2:12:15 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 2:13:20 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 2:13:49 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 2:14:44 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 2:15:45 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 2:17:26 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 2:17:44 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 2:18:14 PM NWC.model.Administrator doLog
+INFO: scene change to 3
+May 05, 2017 2:19:12 PM NWC.controller.AddEmployeeTimesIVController doLog
+INFO: Next Page found and is not null
+May 05, 2017 2:19:13 PM NWC.controller.AddEmployeeTimesIVController doLog
+INFO: Next Page found and is not null
+May 05, 2017 2:19:13 PM NWC.controller.AddEmployeeTimesIVController doLog
+INFO: Next Page found and is not null
+May 05, 2017 2:19:22 PM NWC.controller.AddEmployeeTimesIVController doLog
+INFO: Next Page found and is not null
+May 05, 2017 2:19:22 PM NWC.controller.AddEmployeeTimesIVController doLog
+INFO: Next Page found and is not null
+May 05, 2017 2:19:23 PM NWC.controller.AddEmployeeTimesIVController doLog
+INFO: Next Page found and is not null
+May 05, 2017 2:21:37 PM NWC.model.Administrator doLog
+INFO: scene change to 3

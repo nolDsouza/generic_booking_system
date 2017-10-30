@@ -1,0 +1,83 @@
+.background {
+	 -fx-background-color: #36373A;
+}
+
+.textfieldLogin {
+    
+    -fx-background-color: #FFFFFF;
+    -fx-background-radius: 20px;
+    -fx-pref-height: 48px;
+    -fx-pref-width: 405px;
+    
+}
+
+.loginButtonLogin {
+    
+    -fx-background-color: #479E7D;
+    -fx-background-radius: 20px;
+    -fx-pref-height: 48px;
+    -fx-pref-width: 405px;
+    
+}
+
+.labela {
+	-fx-background-color: #479E7D;
+	-fx-font: 16pt "Arial";
+	-fx-font-weight: bold;
+}
+
+.list-cell 
+{
+	-fx-font: 16pt "Arial";
+	-fx-font-weight: bold;
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}
+
+.table-view{
+    -fx-background-color: transparent;
+    -fx-border-width: 1;
+}
+
+.table-view:focused{
+    -fx-background-color: transparent;
+}
+
+.table-view .column-header-background{
+    -fx-background-color: #36373A;
+}
+
+.table-view .column-header-background .label{
+    -fx-background-color: transparent;
+    -fx-text-fill: #ffffff;
+    -fx-border-width: 1;
+}
+
+.table-view .column-header {
+    -fx-background-color: transparent;
+    -fx-border-width: 2;
+    -fx-border-color: white;
+}
+
+.table-view .table-cell{
+    -fx-text-fill: #ffffff;
+    -fx-alignment: center;
+    -fx-border-width: 1;
+}
+   
+.table-cell {
+    -fx-padding: 0.166667em; /* 2px, plus border adds 1px */
+    -fx-background-color: null;
+    -fx-border-color: #ffffff; 
+    -fx-text-fill: -fx-text-background-color; 
+
+}
+
+.table-row-cell{
+    -fx-background-color: -fx-table-cell-border-color, #2b2a2a;
+    -fx-border-color: white;
+    -fx-border-width: 1;
+	
+}
+
+

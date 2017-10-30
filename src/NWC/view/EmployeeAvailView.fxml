@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Pane fx:id="EmployeePane" layoutX="-15.0" prefHeight="800.0" prefWidth="800.0" style="-fx-background-color: #36373A;">
+         <children>
+            <Label fx:id="dayID" alignment="CENTER" layoutX="305.0" layoutY="22.0" prefHeight="68.0" prefWidth="260.0" style="-fx-background-color: #479E7D; -fx-background-radius: 20;" text="Next 7 Days:" textFill="#f8f8f8">
+               <font>
+                  <Font size="36.0" />
+               </font>
+            </Label>
+            <Label alignment="CENTER" layoutX="205.0" layoutY="108.0" prefHeight="31.0" prefWidth="85.0" style="-fx-background-color: #36373A;" text="Tuesday" textFill="#fcfcfc">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label alignment="CENTER" layoutX="309.0" layoutY="108.0" prefHeight="31.0" prefWidth="98.0" style="-fx-background-color: #36373A;" text="Wednesday" textFill="#fcfcfc">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label alignment="CENTER" layoutX="415.0" layoutY="108.0" prefHeight="31.0" prefWidth="85.0" style="-fx-background-color: #36373A;" text="Thursday" textFill="#fcfcfc">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label alignment="CENTER" layoutX="511.0" layoutY="108.0" prefHeight="31.0" prefWidth="68.0" style="-fx-background-color: #36373A;" text="Friday" textFill="#fcfcfc">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label alignment="CENTER" layoutX="612.0" layoutY="108.0" prefHeight="31.0" prefWidth="85.0" style="-fx-background-color: #36373A;" text="Saturday" textFill="#fcfcfc">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label alignment="CENTER" layoutX="706.0" layoutY="108.0" prefHeight="31.0" prefWidth="85.0" style="-fx-background-color: #36373A;" text="Sunday" textFill="#fcfcfc">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label alignment="CENTER" layoutX="101.0" layoutY="108.0" prefHeight="31.0" prefWidth="85.0" style="-fx-background-color: #36373A;" text="Monday" textFill="#fcfcfc">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label alignment="CENTER" layoutX="48.0" layoutY="158.0" prefHeight="24.0" prefWidth="39.0" style="-fx-background-color: #36373A;" text="1" textFill="#fcfcfc">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label alignment="CENTER" layoutX="48.0" layoutY="234.0" prefHeight="24.0" prefWidth="39.0" style="-fx-background-color: #36373A;" text="2" textFill="#fcfcfc">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label alignment="CENTER" layoutX="48.0" layoutY="308.0" prefHeight="24.0" prefWidth="39.0" style="-fx-background-color: #36373A;" text="3" textFill="#fcfcfc">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label alignment="CENTER" layoutX="48.0" layoutY="381.0" prefHeight="24.0" prefWidth="39.0" style="-fx-background-color: #36373A;" text="4" textFill="#fcfcfc">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label alignment="CENTER" layoutX="48.0" layoutY="460.0" prefHeight="24.0" prefWidth="39.0" style="-fx-background-color: #36373A;" text="5" textFill="#fcfcfc">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label alignment="CENTER" layoutX="48.0" layoutY="533.0" prefHeight="24.0" prefWidth="39.0" style="-fx-background-color: #36373A;" text="6" textFill="#fcfcfc">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label alignment="CENTER" layoutX="48.0" layoutY="606.0" prefHeight="24.0" prefWidth="39.0" style="-fx-background-color: #36373A;" text="7" textFill="#fcfcfc">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label alignment="CENTER" layoutX="48.0" layoutY="677.0" prefHeight="24.0" prefWidth="39.0" style="-fx-background-color: #36373A;" text="8" textFill="#fcfcfc">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Separator layoutX="111.0" layoutY="139.0" prefWidth="200.0" style="-fx-background-color: #479E7D;" />
+            <Separator layoutX="310.0" layoutY="139.0" prefWidth="200.0" style="-fx-background-color: #479E7D;" />
+            <Separator layoutX="509.0" layoutY="139.0" prefWidth="200.0" style="-fx-background-color: #479E7D;" />
+            <Separator layoutX="87.0" layoutY="103.0" orientation="VERTICAL" prefHeight="200.0" style="-fx-background-color: #479E7D;" />
+            <Separator layoutX="87.0" layoutY="303.0" orientation="VERTICAL" prefHeight="200.0" style="-fx-background-color: #479E7D;" />
+            <Separator layoutX="87.0" layoutY="497.0" orientation="VERTICAL" prefHeight="200.0" style="-fx-background-color: #479E7D;" />
+            <Separator layoutX="87.0" layoutY="553.0" orientation="VERTICAL" prefHeight="200.0" style="-fx-background-color: #479E7D;" />
+            <Separator layoutX="25.0" layoutY="139.0" prefWidth="200.0" style="-fx-background-color: #479E7D;" />
+            <Separator layoutX="593.0" layoutY="139.0" prefWidth="200.0" style="-fx-background-color: #479E7D;" />
+         </children>
+      </Pane>
+      <Button layoutX="58.0" layoutY="32.0" mnemonicParsing="false" onAction="#back" prefHeight="24.0" prefWidth="68.0" style="-fx-background-color: F6A623; -fx-background-radius: 20;" text="Back" textFill="WHITE" />
+   </children>
+</AnchorPane>

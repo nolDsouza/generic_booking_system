@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="NWC.controller.LoginController">
+   <children>
+      <Pane prefHeight="800.0" prefWidth="800.0" styleClass="background" stylesheets="@/Stylesheets/Stylesheet.css" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <Button alignment="CENTER" layoutX="199.0" layoutY="522.0" mnemonicParsing="false" onAction="#loginClicked" prefHeight="27.0" prefWidth="412.0" styleClass="loginButtonLogin" stylesheets="@../../Stylesheets/Stylesheet.css" text="Login" textFill="WHITE">
+               <font>
+                  <Font name="Montserrat-Regular" size="24.0" />
+               </font>
+            </Button>       
+            <TextField fx:id="usernameTextField" layoutX="197.0" layoutY="380.0" promptText="  Username" styleClass="textfieldLogin" stylesheets="@../../Stylesheets/Stylesheet.css">
+               <font>
+                  <Font name="Montserrat-Regular" size="24.0" />
+               </font>
+            </TextField>
+            <PasswordField fx:id="passwordTextField" layoutX="197.0" layoutY="450.0" promptText="  Password" styleClass="textfieldLogin" stylesheets="@../../Stylesheets/Stylesheet.css">
+               <font>
+                  <Font name="Montserrat-Regular" size="24.0" />
+               </font>
+            </PasswordField>
+            <ImageView fitHeight="127.0" fitWidth="242.0" layoutX="285.0" layoutY="212.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@/Images/Dumbell.png" />
+               </image>
+            </ImageView>
+            <Button layoutX="186.0" layoutY="131.0" mnemonicParsing="false" style="-fx-background-color: #36373A;" text="Neil's Workout Center" textFill="WHITE">
+               <font>
+                  <Font name="Montserrat-Bold" size="36.0" />
+               </font>
+            </Button>
+            <CheckBox fx:id="rememberMe" layoutX="201.0" layoutY="597.0" mnemonicParsing="false" text="  Remember Me" textFill="#a3a3a3">
+               <font>
+                  <Font name="Montserrat-Regular" size="20.0" />
+               </font>
+            </CheckBox>
+            <Button layoutX="505.0" layoutY="591.0" mnemonicParsing="false" onAction="#signUpClicked" style="-fx-background-color: #36373A;" text="Sign Up" textFill="#a3a3a3">
+               <font>
+                  <Font name="Montserrat-Regular" size="20.0" />
+               </font>
+            </Button>
+            <Label fx:id="errorLabel" layoutX="199.0" layoutY="350.0" prefHeight="17.0" prefWidth="526.0" textFill="RED" />
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>
